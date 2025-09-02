@@ -1,7 +1,11 @@
-<p align="center">Cronometro Tarefas</p>
+# Cronômetro Tarefas ⏱️
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
-* Tailwind
-* Vue
+<p align="center">📝 Projeto Cronômetro Tarefas, app para gerenciar tempo de atividades usando Vue e Tailwind.</p>
+
+---
+
+## 🛠 Tecnologias
+- HTML
+- CSS
+- Tailwind
+- Vue
